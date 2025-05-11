@@ -1,0 +1,2 @@
+psutil>=5.9.0
+nvidia-ml-py3>=7.352.0
